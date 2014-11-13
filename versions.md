@@ -21,3 +21,9 @@ Cleaned room
 
 #v3.3.0
 Added blackboard
+
+#v3.4.0
+Added Chalk holder
+
+#v3.4.1
+Cleaned room
